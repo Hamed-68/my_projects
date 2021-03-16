@@ -1,4 +1,4 @@
-##you can test your ability in Multiplication 
+"""You can test your ability in Multiplication.""" 
 
 import time
 from random import randint
