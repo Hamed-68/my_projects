@@ -26,7 +26,7 @@ for i in range(10):
         wrong_answer += 1
         print(t2 - t1)
     elif (t2 - t1) > 3 and answer != first_number * second_number:
-        print("wrong answer!! lose time!!")
+        print("wrong answer!!! lose time!!!")
         wrong_answer += 1
         print(t2 - t1)
 print("Right answers :", right_answer, "Wrong answers :", wrong_answer)
