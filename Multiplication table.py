@@ -11,7 +11,7 @@ for i in range(10):
     second_number = randint(1, 10)
 
     t1 = time.perf_counter() ##START TIME
-    print(f"{a} * {b}")
+    print(f"{first_number} * {second_number}")
     answer = int(input())
     t2 = time.perf_counter() ##END TIME
 
